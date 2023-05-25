@@ -8,8 +8,8 @@ fahrenheit.oninput = function () {
 // allclear = document.getElementById('cel');
 //let empty = document.getElementById('fah');
 
-let clear=()=>{
+/*let clear=()=>{
     celsius.innerHTML= "";
     fahrenheit.innerHTML= "";
     
-}
+}*/
